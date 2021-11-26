@@ -3,7 +3,7 @@ def somma (values):
   for item in values:
     x=x+item
   seiunfrocio = "{:.2f}". format(x)
-  print("La somma dei shampoo è = " + str(seiunfrocio))
+  print("La somma dei shampoo è = ")
   return (x)
 
 # Inizializzo una lista vuota per salvare i valori
